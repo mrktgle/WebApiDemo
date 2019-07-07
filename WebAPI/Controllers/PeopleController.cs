@@ -27,7 +27,7 @@ namespace WebAPI.Controllers
         public PeopleController()
         {
             people.Add(new Person {Id = 1, FirstName = "Mark", LastName = "Tagle"});
-            people.Add(new Person { Id = 2, FirstName = "Alaine", LastName = "Castillo" });
+            people.Add(new Person { Id = 2, FirstName = "Mary", LastName = "Smith" });
             people.Add(new Person { Id = 3, FirstName = "Juan", LastName = "Luna" });
         }
 
